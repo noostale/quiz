@@ -1,0 +1,1048 @@
+{
+    "quiz": [
+      {
+        "numero": 1,
+        "domanda": "Nel normale sviluppo psicomotorio, il bambino deve riconoscere e rispondere con un sorriso alla mamma:",
+        "risposte": {
+          "A": "Entro il primo mese di vita",
+          "B": "Entro i 3mesi di vita",
+          "C": "Entro i 6mesi di vita",
+          "D": "Entro i 9mesi di vita"
+        },
+        "corretta": "B"
+      },
+      {
+        "numero": 2,
+        "domanda": "Nel normale sviluppo psicomotorio, il bambino deve deambulare autonomamente entro:",
+        "risposte": {
+          "A": "6mesi di età",
+          "B": "9mesi di età",
+          "C": "18mesi di età",
+          "D": "36mesi di età"
+        },
+        "corretta": "C"
+      },
+      {
+        "numero": 3,
+        "domanda": "La gravità della disabilità intellettiva viene definita sulla base di:",
+        "risposte": {
+          "A": "Un QI tra 70 - 85",
+          "B": "Il deficit del funzionamento adattivo",
+          "C": "L'etologia della patologia neurologica",
+          "D": "Un QI < 70"
+        },
+        "corretta": "B"
+      },
+      {
+        "numero": 4,
+        "domanda": "L'elemento fondamentale nella diagnosi di autismo è:",
+        "risposte": {
+          "A": "Il ritardo del linguaggio",
+          "B": "Il deficit intellettivo",
+          "C": "La presenza di stereotipie motorie e comportamentali",
+          "D": "Il deficit della comunicazione e della interazione sociali"
+        },
+        "corretta": "D"
+      },
+      {
+        "numero": 5,
+        "domanda": "L'autismo",
+        "risposte": {
+          "A": "Ha una incidenza dell'1% nella popolazione generale e si presenta con uguale frequenza tra maschi e femmine",
+          "B": "Ha una incidenza dell'1% nella popolazione generale ed è nettamente prevalente nei maschi",
+          "C": "Ha una incidenza dell'0,1% nella popolazione generale ed è nettamente prevalente nei maschi",
+          "D": "Ha una incidenza dell'1% nella popolazione generale ed è prevalente nelle femmine"
+        },
+        "corretta": "B"
+      },
+      {
+        "numero": 6,
+        "domanda": "È un sintomo di allarme per l'autismo l'assenza entro i 18mesi:",
+        "risposte": {
+          "A": "Delle prime parole",
+          "B": "Del gioco simbolico",
+          "C": "Del contatto oculare e del sorriso sociale",
+          "D": "Della deambulazione"
+        },
+        "corretta": "C"
+      },
+      {
+        "numero": 7,
+        "domanda": "Quale è un elemento distintivo importante tra TICS e COREA?",
+        "risposte": {
+          "A": "La Corea non interessa il volto",
+          "B": "I Tics possono essere, anche se momentaneamente, inibiti",
+          "C": "L'età di insorgenza è diversa",
+          "D": "La Corea interessa più distretti corporei"
+        },
+        "corretta": "B"
+      },
+      {
+        "numero": 8,
+        "domanda": "La crisi epilettica si definisce 'focale' in quanto dovuta:",
+        "risposte": {
+          "A": "Ad una scarica abnorme di neuroni cerebrali inclusi in un network limitato ad un solo emisfero cerebrale",
+          "B": "Ad una lesione delimitata localizzata in un emisfero cerebrale",
+          "C": "All’interessamento esclusivo dell'area motoria",
+          "D": "Quando nella crisi non c’è compromissione della coscienza"
+        },
+        "corretta": "A"
+      },
+      {
+        "numero": 9,
+        "domanda": "Epilessia - Quale affermazione è vera:",
+        "risposte": {
+          "A": "Tutte le crisi epilettiche sono dovute all'epilessia",
+          "B": "Per fare diagnosi di epilessia sono necessarie almeno due crisi epilettiche spontanee o una sola crisi inquadrabile in una sindrome epilettica",
+          "C": "Solo i pazienti con epilessia possono presentare una crisi epilettica",
+          "D": "Un bambino con ritardo psicomotorio ed anomalie EEG merita di essere trattato con farmaci antiepilettici"
+        },
+        "corretta": "B"
+      },
+      {
+        "numero": 10,
+        "domanda": "Epilessia - Quale affermazione è vera:",
+        "risposte": {
+          "A": "L’epilessia guarisce solo spontaneamente",
+          "B": "Nel 25-30% dei casi non si raggiunge il controllo delle crisi con i farmaci antiepilettici",
+          "C": "Solo le epilessie su base genetica guariscono",
+          "D": "Tutti i casi resistenti ai farmaci guariscono con il trattamento neurochirurgico"
+        },
+        "corretta": "B"
+      },
+      {
+        "numero": 11,
+        "domanda": "Il test di Wada viene utilizzato nei pazienti con epilessia resistente per:",
+        "risposte": {
+          "A": "Individuare l'area epilettogena",
+          "B": "Valutare il livello cognitivo del paziente",
+          "C": "Capire la causa della epilessia",
+          "D": "Lateralizzare il linguaggio"
+        },
+        "corretta": "D"
+      },
+      {
+        "numero": 12,
+        "domanda": "L'epilessia del lobo temporale può provocare:",
+        "risposte": {
+          "A": "Ritardo cognitivo",
+          "B": "Deficit delle funzioni esecutive e della pianificazione",
+          "C": "Deficit della memoria verbale e visiva",
+          "D": "Deficit della coordinazione motoria"
+        },
+        "corretta": "C"
+      },
+      {
+        "numero": 13,
+        "domanda": "Nelle encefalopatie epilettiche l'arresto dello sviluppo psicomotorio o la regressione sono dovuti a:",
+        "risposte": {
+          "A": "Alla anomalia genetica causa della epilessia",
+          "B": "Alla attività epilettica in sé, intesa come anomalie EEG epilettiformi continue e crisi epilettiche",
+          "C": "Ai farmaci speciali (in particolare i cortisonici) che si usano in queste situazioni",
+          "D": "Al tipo di lesione cerebrale"
+        },
+        "corretta": "B"
+      },
+      {
+        "numero": 14,
+        "domanda": "I farmaci antiepilettici:",
+        "risposte": {
+          "A": "Hanno tutti una azione sedativa",
+          "B": "Sono esenti da effetti collaterali",
+          "C": "Hanno anche un'azione antipsicotica",
+          "D": "Alcuni possono stabilizzare il tono dell'umore"
+        },
+        "corretta": "D"
+      },
+      {
+        "numero": 15,
+        "domanda": "Il Pavor Nocturnus",
+        "risposte": {
+          "A": "È una somatizzazione di uno stato di disagio infantile",
+          "B": "È un incubo a contenuto terrifico",
+          "C": "È una parasonnia che avviene durante le fasi più profonde del sonno",
+          "D": "È un particolare tipo di crisi epilettica"
+        },
+        "corretta": "C"
+      },
+      {
+        "numero": 16,
+        "domanda": "Nelle pseudo-crisi uno degli elementi distintivi rispetto alla crisi epilettica è:",
+        "risposte": {
+          "A": "Il paziente va in apnea",
+          "B": "Ha scosse ritmiche di tutto il corpo",
+          "C": "Il paziente tiene gli occhi chiusi",
+          "D": "Il paziente perde l'urina"
+        },
+        "corretta": "C"
+      },
+      {
+        "numero": 17,
+        "domanda": "I dolori addominali ricorrenti nei bambini sono:",
+        "risposte": {
+          "A": "Una somatizzazione dell'ansia",
+          "B": "Sintomi di una appendicite cronica",
+          "C": "Una manifestazione fittizia",
+          "D": "Un equivalente emicranico"
+        },
+        "corretta": "D"
+      },
+      {
+        "numero": 18,
+        "domanda": "Lo psicologo in un centro cefalee pediatrico è importante per:",
+        "risposte": {
+          "A": "Valutare se i farmaci di profilassi",
+          "B": "Monitorare l'andamento del sintomo",
+          "C": "Valutare ed intervenire su eventuali fattori psicologici/familiari/relazionali/scolastici che possono peggiorare la frequenza ed intensità della cefalea",
+          "D": "Aiutare i genitori nel rapporto con la scuola del bambino/adolescente"
+        },
+        "corretta": "C"
+      },
+      {
+        "numero": 19,
+        "domanda": "Scegliere la risposta corretta:",
+        "risposte": {
+          "A": "L’emicrania è una malattia solo neurologica",
+          "B": "L’emicrania in età pediatrica è di natura psicogena",
+          "C": "I fattori psicologici interessano solo la cefalea tensiva",
+          "D": "L’emicrania è una malattia neurologica in cui i fattori psicologici spesso ne condizionano la frequenza e l’intensità"
+        },
+        "corretta": "D"
+      },
+      {
+        "numero": 20,
+        "domanda": "Quale tra le seguenti difficoltà descrive meno il profilo psicologico dei giovani pazienti cefalgici?",
+        "risposte": {
+          "A": "Difficile gestione e modulazione delle emozioni",
+          "B": "Sintomi di ansia e depressione",
+          "C": "Stile di attaccamento di tipo insicuro",
+          "D": "Elevata prevalenza di chiari sintomi psicotici"
+        },
+        "corretta": "D"
+      },
+      {
+        "numero": 21,
+        "domanda": "Quale affermazione è errata riguardo agli effetti della privazione di sonno?",
+        "risposte": {
+          "A": "La privazione di sonno favorisce i disordini immunitari",
+          "B": "La privazione di sonno favorisce la anoressia",
+          "C": "La privazione di sonno favorisce i disturbi della memoria",
+          "D": "La privazione di sonno favorisce le patologie cardiache"
+        },
+        "corretta": "B"
+      },
+      {
+        "numero": 22,
+        "domanda": "L'ADOS:",
+        "risposte": {
+          "A": "È un'intervista strutturata per i genitori di bambini con sospetto disturbo dello spettro autistico",
+          "B": "È un test sintomatologico strutturato per la diagnosi di disturbo dello spettro autistico",
+          "C": "È un'osservazione non strutturata per la valutazione di bambini con lo spettro autistico",
+          "D": "È un test standardizzato per la valutazione del livello di sviluppo"
+        },
+        "corretta": "B"
+      },
+      {
+        "numero": 23,
+        "domanda": "La ADOS-2 può essere somministrata a partire da:",
+        "risposte": {
+          "A": "12mesi di età",
+          "B": "18mesi di età",
+          "C": "24mesi di età",
+          "D": "36mesi di età"
+        },
+        "corretta": "A"
+      },
+      {
+        "numero": 24,
+        "domanda": "Secondo i nuovi criteri DSM-5 per porre diagnosi di ADHD l'esordio dei sintomi:",
+        "risposte": {
+          "A": "Prima dei 5 anni di età",
+          "B": "Prima dei 7 anni di età",
+          "C": "Prima dei 12 anni di età",
+          "D": "Prima dei 18 anni di età"
+        },
+        "corretta": "C"
+      },
+      {
+        "numero": 25,
+        "domanda": "Nell'ADHD:",
+        "risposte": {
+          "A": "L’iperattività è sempre presente",
+          "B": "I sintomi possono svanire con la crescita",
+          "C": "È possibile una presentazione esclusivamente inattentiva",
+          "D": "Non è possibile definire una comorbidità con i disturbi dello spettro autistico"
+        },
+        "corretta": "C"
+      },
+      {
+        "numero": 26,
+        "domanda": "Quale di questi sintomi è meno frequente nell'ADHD in adolescenza:",
+        "risposte": {
+          "A": "Iperattività motoria",
+          "B": "Difficoltà di pianificazione",
+          "C": "Comportamento aggressivo",
+          "D": "Problemi emotivi"
+        },
+        "corretta": "A"
+      },
+      {
+        "numero": 27,
+        "domanda": "Quali competenze valuta la Vineland Adaptive Behavior Scales:",
+        "risposte": {
+          "A": "Lo sviluppo intellettivo",
+          "B": "L'autonomia e la responsabilità sociale",
+          "C": "Il comportamento in età evolutiva",
+          "D": "La qualità di vita"
+        },
+        "corretta": "B"
+      },
+      {
+        "numero": 28,
+        "domanda": "Quale delle seguenti affermazioni è vera?",
+        "risposte": {
+          "A": "La sindrome di Tourette necessita per la diagnosi di una comorbidità neuropsichiatrica",
+          "B": "La sindrome di Tourette è correlata allo Spettro Autistico a causa del ritardo del linguaggio",
+          "C": "Le stereotipie sono presenti sia nella Sindrome di Tourette che nel disturbo dello spettro autistico",
+          "D": "La sindrome di Tourette è comune fra i bambini con disturbo dello spettro autistico"
+        },
+        "corretta": "C"
+      },
+      {
+        "numero": 29,
+        "domanda": "Lo stato di veglia e la coscienza sono regolati dalla seguente struttura:",
+        "risposte": {
+          "A": "Ipotalamo (nREM)",
+          "B": "Cervelletto (tronco → rem)",
+          "C": "Corteccia cerebrale (veglia)",
+          "D": "Formazione reticolare"
+        },
+        "corretta": "D"
+      },
+      {
+        "numero": 30,
+        "domanda": "Cosa è il Medical shopping?",
+        "risposte": {
+          "A": "Una forma di abuso da patologia delle cure",
+          "B": "Una terapia riabilitativa",
+          "C": "Una forma di maltrattamento fisico",
+          "D": "Una rivista medica"
+        },
+        "corretta": "A"
+      },
+      {
+        "numero": 31,
+        "domanda": "Tra questi moduli è possibile scegliere nell’ADOS-2:",
+        "risposte": {
+          "A": "2 moduli, a seconda che il bambino sia verbale o meno",
+          "B": "2 moduli, a seconda che il bambino abbia meno disabilità cognitiva",
+          "C": "4 moduli",
+          "D": "5 moduli"
+        },
+        "corretta": "D"
+      },
+      {
+        "numero": 32,
+        "domanda": "Quale dei seguenti è un test di terzo livello per la diagnosi di disturbo dello spettro autistico:",
+        "risposte": {
+          "A": "CHAT",
+          "B": "ADI-R",
+          "C": "M-CHAT",
+          "D": "SACS"
+        },
+        "corretta": "B"
+      },
+      {
+        "numero": 33,
+        "domanda": "L’ADOS-2 può essere somministrato a partire da:",
+        "risposte": {
+          "A": "6mesi di età",
+          "B": "12mesi di età",
+          "C": "18mesi di età",
+          "D": "24mesi di età"
+        },
+        "corretta": "B"
+      },
+      {
+        "numero": 34,
+        "domanda": "Nelle epilessie resistenti il bilancio psicologico pre-chirurgico prevede:",
+        "risposte": {
+          "A": "Valutazione cognitiva, del comportamento, dell’adattamento psicosociale e della qualità della vita",
+          "B": "Valutazione cognitiva e neuropsicologica",
+          "C": "Valutazione della qualità della vita",
+          "D": "Valutazione del comportamento"
+        },
+        "corretta": "A"
+      },
+      {
+        "numero": 35,
+        "domanda": "Nelle epilessie resistenti cosa si intende per 'riserva funzionale':",
+        "risposte": {
+          "A": "Outcome neuropsicologico post intervento di disconnessione",
+          "B": "Stato funzionale dell’emisfero controlaterale a quello con lesione",
+          "C": "Rischio cognitivo post operatorio",
+          "D": "Stato funzionale dell’emisfero omolaterale alla lesione"
+        },
+        "corretta": "D"
+      },
+      {
+        "numero": 36,
+        "domanda": "Quale di queste affermazioni può essere riferita alla definizione di Distonia:",
+        "risposte": {
+          "A": "È un movimento ipercinetico",
+          "B": "Si riferisce a posture anomale",
+          "C": "Si riferisce a movimenti torsionali",
+          "D": "Tutte le precedenti"
+        },
+        "corretta": "D"
+      },
+      {
+        "numero": 37,
+        "domanda": "Il torcicollo parossistico benigno:",
+        "risposte": {
+          "A": "Rientra tra i disturbi del movimento ipercinetici",
+          "B": "Rientra tra i disturbi del movimento ipocinetici",
+          "C": "È un equivalente emicranico",
+          "D": "Nessuna delle precedenti"
+        },
+        "corretta": "D"
+      },
+      {
+        "numero": 38,
+        "domanda": "I tics:",
+        "risposte": {
+          "A": "Sono movimenti involontari parzialmente sopprimibili",
+          "B": "Sono causa rara di disturbi nel bambino",
+          "C": "Sono spesso secondari a lesioni organiche",
+          "D": "Nessuna delle precedenti è vera"
+        },
+        "corretta": "A"
+      },
+      {
+        "numero": 39,
+        "domanda": "Quale delle seguenti affermazioni è vera?",
+        "risposte": {
+          "A": "La sindrome di Tourette necessita per la diagnosi di una comorbidità neuropsichiatrica",
+          "B": "La sindrome di Tourette è correlata allo spettro autistico a causa del ritardo del linguaggio",
+          "C": "Le stereotipie sono presenti sia nella Sindrome di Tourette che nel disturbo dello spettro autistico",
+          "D": "La sindrome di Tourette è comune fra i bambini con disturbo dello spettro autistico"
+        },
+        "corretta": "C"
+      },
+      {
+        "numero": 40,
+        "domanda": "Quale tra le seguenti affermazioni è corretta riguardo l'epilessia:",
+        "risposte": {
+          "A": "Chiunque ha una crisi epilettica ha l’epilessia",
+          "B": "Il 15% della popolazione presenta almeno una crisi epilettica nel corso della vita",
+          "C": "L’epilessia è una malattia psichiatrica",
+          "D": "L’epilessia è una malattia caratterizzata dal ripetersi spontaneo di crisi epilettiche"
+        },
+        "corretta": "D"
+      },
+      {
+        "numero": 41,
+        "domanda": "Quale tra le seguenti affermazioni è corretta riguardo l'epilessia:",
+        "risposte": {
+          "A": "L’epilessia è una malattia legata all’invecchiamento cerebrale",
+          "B": "Il 60% delle epilessie ha un esordio prepuberale",
+          "C": "Bisogna trattare farmacologicamente le convulsioni febbrili in modo da evitare l'evoluzione verso l'epilessia",
+          "D": "La maggior parte delle epilessie non risponde al trattamento farmacologico"
+        },
+        "corretta": "B"
+      },
+      {
+        "numero": 42,
+        "domanda": "In caso di crisi epilettica occorre:",
+        "risposte": {
+          "A": "Mettere il paziente su un piano orizzontale sdraiato sul fianco sinistro",
+          "B": "Mettere qualcosa in bocca al paziente per evitare che si morda la lingua",
+          "C": "Con un fazzoletto o una garza cercare di afferrare la lingua per evitare che cada all'indietro provocando soffocamenti",
+          "D": "Bloccare i movimenti convulsivi"
+        },
+        "corretta": "A"
+      },
+      {
+        "numero": 43,
+        "domanda": "Quale tra le seguenti affermazioni relative alle convulsioni febbrili è corretta:",
+        "risposte": {
+          "A": "Le convulsioni febbrili avvengono solo in occasione di febbre molto elevata",
+          "B": "Nella maggior parte dei casi le convulsioni febbrili si presentano nelle prime 24 ore di febbre",
+          "C": "È sufficiente abbassare la temperatura corporea per evitare le convulsioni febbrili",
+          "D": "Il trattamento intermittente con diazepam orale in caso di febbre è fortemente indicato per prevenzione delle crisi febbrili"
+        },
+        "corretta": "B"
+      },
+      {
+        "numero": 44,
+        "domanda": "L’epilessia del lobo occipitale può provocare:",
+        "risposte": {
+          "A": "Deficit della percezione visiva",
+          "B": "Deficit delle funzioni esecutive e dell’attenzione",
+          "C": "Deficit della memoria verbale e visiva",
+          "D": "Deficit della coordinazione motoria"
+        },
+        "corretta": "A"
+      },
+      {
+        "numero": 45,
+        "domanda": "Quale tra le seguenti affermazioni relative al sonno è corretta:",
+        "risposte": {
+          "A": "Nella vita si tende a dormire sempre di meno e a sognare sempre di meno",
+          "B": "L’adulto passa un terzo del sonno in fase REM",
+          "C": "Il bambino passa due terzi del sonno in fase REM",
+          "D": "L’adulto facilmente si addormenta in fase REM"
+        },
+        "corretta": "B"
+      },
+      {
+        "numero": 46,
+        "domanda": "Quali tra questi segni è MENO probabilmente un marker precoce di autismo tra i 12 e i 24 mesi di età:",
+        "risposte": {
+          "A": "Riduzione dei livelli di comunicazione e attenzione sociale",
+          "B": "Comportamenti ripetitivi",
+          "C": "Assenza di linguaggio verbale",
+          "D": "Disregolazione temperamentale"
+        },
+        "corretta": "C"
+      },
+      {
+        "numero": 47,
+        "domanda": "Quali di questi aspetti NON è solitamente presente nel mutismo selettivo?",
+        "risposte": {
+          "A": "Livello di linguaggio compromesso",
+          "B": "Livello cognitivo nei limiti della norma",
+          "C": "Comunicazione non verbale intatta",
+          "D": "Possibile inibizione in alcuni contesti"
+        },
+        "corretta": "A"
+      },
+      {
+        "numero": 48,
+        "domanda": "Il riflesso di Moro è un riflesso arcaico presente in tutti i neonati; in un bambino normale a che età deve scomparire?",
+        "risposte": {
+          "A": "Un mese",
+          "B": "2mesi",
+          "C": "5mesi",
+          "D": "Ad un anno"
+        },
+        "corretta": "C"
+      },
+      {
+        "numero": 49,
+        "domanda": "Nello sviluppo del grafismo quando il bambino riesce a scarabocchiare spontaneamente?",
+        "risposte": {
+          "A": "A 12mesi",
+          "B": "A 18mesi",
+          "C": "A 24mesi",
+          "D": "A 3 anni"
+        },
+        "corretta": "B"
+      },
+      {
+        "numero": 50,
+        "domanda": "Qual è l’incidenza nella popolazione generale di un QI < 70?",
+        "risposte": {
+          "A": "0,5%",
+          "B": "2%",
+          "C": "4%",
+          "D": "6%"
+        },
+        "corretta": "B"
+      },
+      {
+        "numero": 51,
+        "domanda": "Fino all’età di 9-10 anni: l’emicrania è di gran lunga più frequente della cefalea tensiva",
+        "risposte": {
+          "A": "Vero",
+          "B": "Falso"
+        },
+        "corretta": "A"
+      },
+      {
+        "numero": 52,
+        "domanda": "Il bilancio psicologico pre-chirurgico prevede:",
+        "risposte": {
+          "A": "Una valutazione cognitiva, del comportamento, dell’adattamento psicosociale e della qualità della vita",
+          "B": "Valutazione cognitiva e neuropsicologica",
+          "C": "Valutazione della qualità della vita",
+          "D": "Valutazione del comportamento"
+        },
+        "corretta": "A"
+      },
+      {
+        "numero": 53,
+        "domanda": "In età evolutiva i bambini con epilessia farmaco resistente possono avere:",
+        "risposte": {
+          "A": "Una alta incidenza di disturbi neuropsicologici e del comportamento",
+          "B": "Una alta incidenza di disturbi neuropsicologici",
+          "C": "Una alta incidenza di disturbi del comportamento",
+          "D": "Nessuna delle precedenti"
+        },
+        "corretta": "A"
+      },
+      {
+        "numero": 54,
+        "domanda": "Il ruolo dello psicologo nei follow up di bambini seguiti per epilessie prevede:",
+        "risposte": {
+          "A": "Solo una valutazione cognitiva",
+          "B": "Osservazione del comportamento e del colloquio con i genitori",
+          "C": "Un approccio integro e globale, con un profilo da un punto di vista cognitivo, neuropsicologico, comportamentale ed emotivo oltre che dell’ambiente familiare",
+          "D": "Nessuna delle precedenti"
+        },
+        "corretta": "C"
+      },
+      {
+        "numero": 55,
+        "domanda": "Nel disturbo dello spettro autistico quali sono i domini sintomatologici esposti dal DSM-5:",
+        "risposte": {
+          "A": "Deficit di comunicazione sociale, interessi ristretti e comportamenti ripetitivi",
+          "B": "Deficit di comunicazione sociale, disturbo del linguaggio, interessi ristretti e comportamenti ripetitivi",
+          "C": "Grado di isolamento sociale, deficit del linguaggio e stereotipie motorie",
+          "D": "Assenza di linguaggio espressivo, stereotipie motorie, disabilità intellettiva"
+        },
+        "corretta": "A"
+      },
+      {
+        "numero": 56,
+        "domanda": "Qual è l’incidenza delle convulsioni febbrili nella popolazione generale?",
+        "risposte": {
+          "A": "1%",
+          "B": "4-5%",
+          "C": "6-10%",
+          "D": ">10%"
+        },
+        "corretta": "B"
+      },
+      {
+        "numero": 57,
+        "domanda": "Cosa si intende per 'riflesso del Grasping'?",
+        "risposte": {
+          "A": "Comparsa della prensione volontaria",
+          "B": "Riflesso arcaico con chiusura della mano in risposta a una stimolazione del palmo",
+          "C": "Passaggio di un oggetto da una mano all’altra",
+          "D": "Prensione bimanuale"
+        },
+        "corretta": "B"
+      },
+      {
+        "numero": 58,
+        "domanda": "La valutazione neuropsicologica in epilessia dell’età evolutiva:",
+        "risposte": {
+          "A": "Dev’essere completa di tutti i domini neuropsicologici",
+          "B": "Si limita alla misura delle funzioni associate alla lesione",
+          "C": "È comprensiva solo di memoria e di attenzione",
+          "D": "Nessuna delle precedenti"
+        },
+        "corretta": "A"
+      },
+      {
+        "numero": 59,
+        "domanda": "Crisi ripetute interessanti l’area del linguaggio in un bambino destrorso, che esordiscono nei primi anni di vita, possono determinare:",
+        "risposte": {
+          "A": "La rilocalizzazione del linguaggio nelle regioni omologhe dell’emisfero opposto a quello della lesione",
+          "B": "La rilocalizzazione del linguaggio nelle regioni omologhe dell’emisfero destro e nelle aree circostanti dell’emisfero sinistro",
+          "C": "Una completa afasia",
+          "D": "Nessuna delle precedenti"
+        },
+        "corretta": "B"
+      },
+      {
+        "numero": 60,
+        "domanda": "Quali delle seguenti affermazioni relative alla valutazione psicologica dei bambini con cefalea NON è corretta?",
+        "risposte": {
+          "A": "I test psicologici sono utili",
+          "B": "Il coinvolgimento dei genitori non è necessario",
+          "C": "È importante escludere la presenza di stress o fattori traumatici",
+          "D": "Può essere utile una consulenza con neuropsichiatra infantile"
+        },
+        "corretta": "B"
+      },
+      {
+        "numero": 61,
+        "domanda": "Quali tra queste affermazioni riguardanti la patogenesi dei disturbi dello spettro autistico è falsa:",
+        "risposte": {
+          "A": "I disturbi dello spettro autistico rappresentano una categoria di disordini del neurosviluppo, determinati da alterazioni precoci della connettività cerebrale",
+          "B": "La patogenesi dei disturbi dello spettro autistico è determinata dalla complessa interazione tra fattori genetici, epigenetici e ambientali",
+          "C": "Tra i principali loci di suscettibilità per lo sviluppo dei disturbi dello spettro autistico figurano i geni coinvolti nei processi di sinaptogenesi",
+          "D": "L’eziologia dei disturbi dello spettro autistico viene identificata in più dell’80% dei casi"
+        },
+        "corretta": "D"
+      },
+      {
+        "numero": 62,
+        "domanda": "Quali segni e sintomi clinici nella storia evolutiva del bambino potrebbero suggerire difficoltà legate all’autismo?",
+        "risposte": {
+          "A": "Il ritardo nello sviluppo linguistico nei primi due anni di vita",
+          "B": "La mancanza di utilizzo del gesto indicativo a scopo sociale, difficoltà nel gioco condiviso e interessi di gioco anomali",
+          "C": "Il ritardo motorio nei primi mesi di vita",
+          "D": "Il mancato raggiungimento delle tappe di sviluppo nei tempi previsti"
+        },
+        "corretta": "B"
+      },
+      {
+        "numero": 63,
+        "domanda": "A che età è possibile riconoscere nella maggior parte dei casi i segni precoci di un disturbo dello spettro autistico?",
+        "risposte": {
+          "A": "Tra i 12 e i 18mesi di età",
+          "B": "Prima dei 6mesi",
+          "C": "Intorno ai 4 anni",
+          "D": "Dopo i 18mesi"
+        },
+        "corretta": "A"
+      },
+      {
+        "numero": 64,
+        "domanda": "Quali di queste batterie di test è generalmente impiegata nell’iter diagnostico di un bambino con sospetto disturbo dello spettro autistico?",
+        "risposte": {
+          "A": "Scala Wechsler per la valutazione cognitiva, scala CARS per la valutazione sintomatologica",
+          "B": "Scala Weschler o scala di sviluppo, test ADOS, intervista ADR-I per la valutazione sintomatologica, scale PEP-R, PEP 3, TTAP e intervista VABS per la valutazione funzionale",
+          "C": "Test ADOS e intervista ADI-R per la valutazione sintomatologica, seguiti se necessario dai test per il profilo cognitivo e funzionale",
+          "D": "Per la diagnosi, è sufficiente l’impressione clinica del medico e gli esami strumentali"
+        },
+        "corretta": "C"
+      },
+      {
+        "numero": 65,
+        "domanda": "La sindrome di Angelman:",
+        "risposte": {
+          "A": "È dovuta ad una trisomia del cromosoma 13",
+          "B": "È dovuta ad una trisomia del cromosoma 18",
+          "C": "È dovuta ad una anomalia sul cromosoma 15 di derivazione materna",
+          "D": "È dovuta ad una anomalia ad anello sul cromosoma 20"
+        },
+        "corretta": "C"
+      },
+      {
+        "numero": 66,
+        "domanda": "La sclerosi tuberosa:",
+        "risposte": {
+          "A": "È una malattia multisistemica",
+          "B": "Si caratterizza per un coinvolgimento esclusivo del SNC, con manifestazioni sia neurologiche che neuropsichiatriche",
+          "C": "La causa genetica non è nota",
+          "D": "Non si associa mai ad epilessia"
+        },
+        "corretta": "A"
+      },
+      {
+        "numero": 67,
+        "domanda": "Nella fase di sonno REM le strutture cerebrali sono sotto l’influenza di quale struttura?",
+        "risposte": {
+          "A": "Ipotalamo",
+          "B": "Formazione reticolare",
+          "C": "Cervelletto",
+          "D": "Corteccia cerebrale"
+        },
+        "corretta": "B"
+      },
+      {
+        "numero": 68,
+        "domanda": "Durante la fase di sonno REM:",
+        "risposte": {
+          "A": "Si dorme in un sonno profondo",
+          "B": "C’è la perdita del tono muscolare e gli occhi si muovono lentamente",
+          "C": "Il nostro corpo presenta delle scosse involontarie",
+          "D": "Compare il Pavor Nocturnus"
+        },
+        "corretta": "C"
+      },
+      {
+        "numero": 69,
+        "domanda": "La forma più frequente di abuso in Italia è:",
+        "risposte": {
+          "A": "Neglect",
+          "B": "Violenza domestica",
+          "C": "Abuso sessuale",
+          "D": "Maltrattamento fisico"
+        },
+        "corretta": "A"
+      },
+      {
+        "numero": 70,
+        "domanda": "Il disturbo post traumatico complesso è caratterizzato dai seguenti domini tranne:",
+        "risposte": {
+          "A": "Disregolazione emozionale",
+          "B": "Disregolazione interpersonale",
+          "C": "Disregolazione parasimpatica",
+          "D": "Disregolazione dell’identità personale"
+        },
+        "corretta": "C"
+      },
+      {
+        "numero": 71,
+        "domanda": "I sintomi del disturbo post traumatico da stress sono tutti tranne:",
+        "risposte": {
+          "A": "Iperarousal",
+          "B": "Tics",
+          "C": "Flashback",
+          "D": "Evitamento delle situazioni"
+        },
+        "corretta": "B"
+      },
+      {
+        "numero": 72,
+        "domanda": "Tutte queste strutture sono coinvolte nel meccanismo dello stress tranne:",
+        "risposte": {
+          "A": "Amigdala",
+          "B": "Corteccia prefrontale",
+          "C": "Talamo",
+          "D": "Ippocampo"
+        },
+        "corretta": "C"
+      },
+      {
+        "numero": 73,
+        "domanda": "Quale fattore non è associato ad un aumentato rischio di disturbo dello spettro autistico:",
+        "risposte": {
+          "A": "Età del padre",
+          "B": "Infezioni pre-peri-post natali",
+          "C": "Vaccinazione morbillo-parotite-rosolia",
+          "D": "Prematurità alla nascita"
+        },
+        "corretta": "C"
+      },
+      {
+        "numero": 73.1,
+        "domanda": "Che cosa è l'alessitimia?",
+        "risposte": {
+          "A": "Un disturbo del linguaggio",
+          "B": "Un disturbo specifico di apprendimento",
+          "C": "La difficoltà di identificare ed etichettare gli stati emotivi",
+          "D": "Un disturbo del tono dell’umore"
+        },
+        "corretta": "C"
+      },
+      {
+        "numero": 74,
+        "domanda": "Il ballo di San Vito (o Corea di Sydenham) è:",
+        "risposte": {
+          "A": "Una forma di tics",
+          "B": "Un ballo sud-americano",
+          "C": "Un tipo di Corea",
+          "D": "Una manovra diagnostica"
+        },
+        "corretta": "C"
+      },
+      {
+        "numero": 75,
+        "domanda": "Come si classificano i tics:",
+        "risposte": {
+          "A": "Focali e generalizzati",
+          "B": "Volontari e involontari",
+          "C": "Motori e fonatori",
+          "D": "Diurni e notturni"
+        },
+        "corretta": "C"
+      },
+      {
+        "numero": 76,
+        "domanda": "Nell’ipnogramma di un adolescente normale le fasi REM:",
+        "risposte": {
+          "A": "Sono concentrate nella seconda metà della notte",
+          "B": "Compaiono entro la prima ora dall’addormentamento",
+          "C": "Sono assenti",
+          "D": "Hanno una durata totale superiore a quella del sonno non-REM"
+        },
+        "corretta": "A"
+      },
+      {
+        "numero": 77,
+        "domanda": "Il 'parvonocturnus' o 'sleepterror' è:",
+        "risposte": {
+          "A": "Una crisi epilettica con sensazione di paura",
+          "B": "Un sogno terrifico, cioè un incubo",
+          "C": "Una parasonnia che compare nelle fasi III-IV del sonno NREM",
+          "D": "Una manifestazione di patologia psichiatrica"
+        },
+        "corretta": "C"
+      },
+      {
+        "numero": 78,
+        "domanda": "Quale fattore psicopatologico è dimostrato influire su frequenza e intensità degli attacchi di cefalea?",
+        "risposte": {
+          "A": "Disordini della condotta",
+          "B": "Un rapporto di attaccamento ambivalente tra genitori e paziente",
+          "C": "L’ADHD",
+          "D": "Comportamenti oppositivo-provocatori"
+        },
+        "corretta": "B"
+      },
+      {
+        "numero": 79,
+        "domanda": "Quale di queste affermazioni è corretta riguardo la cefalea:",
+        "risposte": {
+          "A": "La cefalea è una patologia dovuta a fattori psicologici",
+          "B": "Vi è una stretta relazione tra ansia e cefalea",
+          "C": "Vi è una stretta relazione tra cefalea e depressione",
+          "D": "La cefalea è dovuta a lesioni cerebrali"
+        },
+        "corretta": "B"
+      },
+      {
+        "numero": 80,
+        "domanda": "Quale tra questi fattori è considerato particolarmente attivante le crisi di cefalea:",
+        "risposte": {
+          "A": "Attività sportiva",
+          "B": "Carenza di sonno",
+          "C": "Bassa temperatura atmosferica",
+          "D": "Artrosi cervicale"
+        },
+        "corretta": "B"
+      },
+      {
+        "numero": 81,
+        "domanda": "A che età un lattante normale deve dimostrare di saper afferrare gli oggetti bimanualmente:",
+        "risposte": {
+          "A": "A 3mesi",
+          "B": "Entro l’anno",
+          "C": "A 7-8mesi",
+          "D": "A 4-5mesi"
+        },
+        "corretta": "C"
+      },
+      {
+        "numero": 82,
+        "domanda": "Il riflesso di Moro (indicare la risposta errata):",
+        "risposte": {
+          "A": "È un riflesso neonatale che si manifesta come una reazione di soprassalto, accompagnata dall’improvvisa apertura delle braccia e dall’allungamento delle gambe",
+          "B": "È sempre una condizione patologica",
+          "C": "Il riflesso di Moro è parte fondamentale dello sviluppo del sistema nervoso neonatale",
+          "D": "Normalmente, il neonato perde il riflesso di Moro entro il sesto mese di vita"
+        },
+        "corretta": "B"
+      },
+      {
+        "numero": 83,
+        "domanda": "Un lattante di 6mesi (indicare la risposta corretta):",
+        "risposte": {
+          "A": "Si solleva in piedi aiutato",
+          "B": "Allunga un oggetto ai genitori",
+          "C": "Pronuncia le prime parole",
+          "D": "Sta seduto da solo"
+        },
+        "corretta": "B"
+      },
+      {
+        "numero": 84,
+        "domanda": "La crisi si definisce generalizzata quando:",
+        "risposte": {
+          "A": "C'è perdita di coscienza",
+          "B": "Il paziente cade a terra",
+          "C": "La scarica epilettica coinvolge rapidamente network di ambedue gli emisferi cerebrali",
+          "D": "Il paziente presenta degli automatismi"
+        },
+        "corretta": "C"
+      },
+      {
+        "numero": 85,
+        "domanda": "Le crisi tipiche della sindrome di West sono:",
+        "risposte": {
+          "A": "Le assenze",
+          "B": "Le contrazioni ritmiche di un lato del volto",
+          "C": "Le crisi tonico-cloniche generalizzate",
+          "D": "Gli spasmi epilettici"
+        },
+        "corretta": "D"
+      },
+      {
+        "numero": 86,
+        "domanda": "Nello sviluppo di un lattante normale di 6-8mesi quale sintomo deve mettere in allarme:",
+        "risposte": {
+          "A": "Non ride nelle situazioni gioiose",
+          "B": "Non dice alcuna parola",
+          "C": "Non è capace di raggiungere la posizione eretta",
+          "D": "Non gattona"
+        },
+        "corretta": "A"
+      },
+      {
+        "numero": 87,
+        "domanda": "L’ippocampo è spesso interessato nell’epilessia; quando è coinvolto l’ippocampo di destra il deficit di memoria riguarda:",
+        "risposte": {
+          "A": "Il materiale verbale",
+          "B": "Gli stimoli visuo-spaziali",
+          "C": "La memoria recente o immediata",
+          "D": "La memoria dei nomi"
+        },
+        "corretta": "B"
+      },
+      {
+        "numero": 88,
+        "domanda": "Cosa si intende per 'Distonia':",
+        "risposte": {
+          "A": "Un disturbo del tono dell’umore",
+          "B": "Un disturbo dell’equilibrio",
+          "C": "Una contrazione muscolare sostenuta e ripetitiva che causa movimenti e/o posture anomale",
+          "D": "Un disturbo specifico di apprendimento"
+        },
+        "corretta": "C"
+      },
+      {
+        "numero": 89,
+        "domanda": "Lo psicologo dell’età evolutiva segue il bambino candidato ad intervento di chirurgia all’epilessia:",
+        "risposte": {
+          "A": "Durante la fase pre-intervento",
+          "B": "Durante la fase post-intervento",
+          "C": "Nel pre-post operatorio",
+          "D": "Nel pre, post operatorio e durante il follow up"
+        },
+        "corretta": "D"
+      },
+      {
+        "numero": 90,
+        "domanda": "La valutazione psicodiagnostica dei giovani pazienti con cefalea dovrebbe includere:",
+        "risposte": {
+          "A": "Test psicologici",
+          "B": "Test psicologici e colloquio con il bambino/adolescente",
+          "C": "Test psicologici, colloquio con il bambino/adolescente e con i genitori",
+          "D": "Sempre test psicologici e di apprendimento"
+        },
+        "corretta": "C"
+      },
+      {
+        "numero": 91,
+        "domanda": "Scegliere l’affermazione corretta riguardo l’attaccamento nei bambini/adolescenti emicranici:",
+        "risposte": {
+          "A": "Hanno un attaccamento sicuro",
+          "B": "Hanno un attaccamento insicuro, ma questo non influenza il profilo psicologico",
+          "C": "Hanno un attaccamento insicuro e ciò può influenzare l’adattamento della cefalea ed il profilo psicologico",
+          "D": "L’analisi dell’attaccamento è irrilevante"
+        },
+        "corretta": "C"
+      },
+      {
+        "numero": 92,
+        "domanda": "I livelli di severità dei disturbi dello spettro autistico previsti dal DSM-5 indicano:",
+        "risposte": {
+          "A": "Livello di linguaggio espressivo",
+          "B": "Quoziente intellettivo",
+          "C": "Livello di linguaggio espressivo e quoziente intellettivo",
+          "D": "Livello di supporto richiesto"
+        },
+        "corretta": "D"
+      },
+      {
+        "numero": 93,
+        "domanda": "Nelle crisi psicogeniche non epilettiche con apparente perdita di coscienza, quale dei seguenti elementi è tipico e aiuta nella distinzione dalle crisi epilettiche:",
+        "risposte": {
+          "A": "Arresto del respiro",
+          "B": "Scosse ritmiche di tutto il corpo",
+          "C": "Il paziente tiene gli occhi chiusi",
+          "D": "Rilascio sfinterico con perdita di urine"
+        },
+        "corretta": "C"
+      },
+      {
+        "numero": 94,
+        "domanda": "I disturbi associati allo stress secondo il DSM-5 sono tutti tranne:",
+        "risposte": {
+          "A": "Disturbo di adattamento",
+          "B": "PTSD Complex",
+          "C": "Disturbo da lutto prolungato",
+          "D": "Disturbo d’ansia di separazione"
+        },
+        "corretta": "D"
+      }
+    ]
+  }
+  
